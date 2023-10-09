@@ -13,7 +13,7 @@
 
 body { 
   background:#FFFFFF; 
-  font-size:1.25ex; 
+  font-size:10px; 
   font-family:arial,helvetica,freesans,sans-serif; 
   margin:5px 0px 5px 5px; 
 } 
@@ -82,8 +82,8 @@ _height:2em;
 }
 
 div.box {
-	height: 100px; 
-	width: 320px;
+	height: 1000px; 
+	width: 600px;
 	display: inline-block;
 }
 
